@@ -21,8 +21,16 @@
 ## Repository Navigation
 * Below are the links to the major content of this repository. The repository link will take you to the repo in general, the Jupyter Notebook contains all code in the notebook for this project and the presentation includes a simplistic and very general summary of the content.
 * Link to this repository: https://github.com/dorndorfronk/Capstone2
-* Link to Jupyter Notebook: (./CapstoneNotebook.ipynb)
-* Link to presentation: (./Predicting Hotel Cancellation.pptx)
+* Link to [Jupyter Notebook](./CapstoneNotebook.ipynb)
+* Link to [Presentation](./Predicting Hotel Cancellation.pptx)
+
+## Reproducibility
+* Install and setup Git Bash: https://git-scm.com/download/win
+* Install and setup Jupyter notebook: https://jupyter.org/install
+* Configure learning environment: https://towardsdatascience.com/creating-and-using-virtual-environment-on-jupyter-notebook-with-python-db3f5afdd56a
+* Clone repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+* Activate your learning environment and navitgate to the cloned repository and type "jupyter notebook" to launch the notebook. 
+* Click "Run All" to run the entire notebook at once.
 
 ## Credits and References
 * Hotel header image: https://live.staticflickr.com/1337/5167872392_6bf0508a2e_b.jpg
