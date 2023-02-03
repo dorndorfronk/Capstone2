@@ -22,8 +22,8 @@
 * Below are the links to the major content of this repository. The repository link will take you to the repo in general, the Jupyter Notebook contains all code in the notebook for this project and the presentation includes a simplistic and very general summary of the content.
 * Link to this repository: https://github.com/dorndorfronk/Capstone2
 * Link to [Jupyter Notebook](./CapstoneNotebook.ipynb)
-* Link to [Presentation](./Predicting Hotel Cancellation.pptx)
-* Link to [Presentation_PDF](./Predicting Hotel Cancellation.pdf)
+* Link to [Presentation](./Presentation.pptx)
+* Link to [Presentation_PDF](./Presentation.pdf)
 
 ## Reproducibility
 * Please use these steps to clone my repository which includes the dataset in the parent directory as well as all code used in the Jupyter Notebook. The data can be downloaded from Kaggle.com manually from here: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset. These steps assume the user is operating Windows 10 or later but Git and Jupyter Notebook can be used on other operating systems including MacOS and Linux.
