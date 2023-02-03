@@ -25,12 +25,13 @@
 * Link to [Presentation](./Predicting Hotel Cancellation.pptx)
 
 ## Reproducibility
-* Install and setup Git Bash: https://git-scm.com/download/win
-* Install and setup Jupyter notebook: https://jupyter.org/install
-* Configure learning environment: https://towardsdatascience.com/creating-and-using-virtual-environment-on-jupyter-notebook-with-python-db3f5afdd56a
-* Clone repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-* Activate your learning environment and navitgate to the cloned repository and type "jupyter notebook" to launch the notebook. 
-* Click "Run All" to run the entire notebook at once.
+* Please use these steps to clone my repository which includes the dataset in the parent directory as well as all code used in the Jupyter Notebook. The data can be downloaded from Kaggle.com manually from here: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset. These steps assume the user is operating Windows 10 or later but Git and Jupyter Notebook can be used on other operating systems including MacOS and Linux.
+* 1. Install and setup Git Bash: https://git-scm.com/download/win
+* 2. Install and setup Jupyter notebook: https://jupyter.org/install
+* 3. Configure learning environment: https://towardsdatascience.com/creating-and-using-virtual-environment-on-jupyter-notebook-with-python-db3f5afdd56a
+* 4. Clone repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+* 5. Activate your learning environment and navitgate to the cloned repository and type "jupyter notebook" to launch the notebook. 
+* 6. Click "Run All" to run the entire notebook at once.
 
 ## Credits and References
 * Hotel header image: https://live.staticflickr.com/1337/5167872392_6bf0508a2e_b.jpg
